@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Show Scheduling Module
 
 The module is Java 8 compatible and uses `ArrayList` for show persistence. It deliberately does not define `Movie`, `Theatre`, or `Screen` entities. `MovieCatalog` and `ScreenCatalog` are adapter contracts; implement them using the shared Member 1 repositories and map the existing objects to the small lookup projections `MovieDetails` and `ScreenDetails`.
